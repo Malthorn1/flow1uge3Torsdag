@@ -1,5 +1,5 @@
-# flow1uge3Torsdag
+# flow1uge3Torsdag Dom Manipulation and Events 
 
-#Dom Manipulation and Events
-#Opgaverne indtil calculator ligger i newhtml.html med newJavascript.js 
+#<br> 
+#Opgaverne indtil calculator ligger i newhtml.html med newJavascript.js <br>
 #Calculator opgave ligger for sig
