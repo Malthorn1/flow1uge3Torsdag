@@ -5,6 +5,14 @@
     var button1 = document.getElementById("submitform1").onsubmit=addName;
     var button2 = document.getElementById("submitform2").onsubmit=removeFirst;
     var button3 = document.getElementById("submitform3").onsubmit=removeLast;
+        
+        function Opg1myClick () {
+        document.getElementById("opg11").style.backgroundColor = "lightblue";
+        document.getElementById("opg12").style.backgroundColor = "red";
+        document.getElementById("opg13").style.backgroundColor = "green";   
+        }
+        
+    
     
     function clickMe(id) {
         console.log("Hi from " + id)
